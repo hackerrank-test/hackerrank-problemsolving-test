@@ -6,6 +6,10 @@
 
 ## [Balanced System Files Partition](https://github.com/hackerrank-test/hackerrank-problemsolving-balanced-system-files-partition) (private)
 
+## [Parallel Processing](https://github.com/hackerrank-test/hackerrank-problemsolving-parallel-processing) (private)
+
+## [Vowel-Substring](https://github.com/hackerrank-test/hackerrank-problemsolving-vowel-substring) (private)
+
 🙏 [Buy me a coffe](https://github.com/hackerrank-test/buymeacoffee)
 
 Need a solution? Don't hesitate to mail to: [hackerranktest@outlook.com](mailto:hackerranktest@outlook.com)
