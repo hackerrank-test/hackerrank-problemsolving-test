@@ -14,6 +14,12 @@
 
 ## [Nearly Similar Rectangles](https://github.com/hackerrank-test/hackerrank-problemsolving-nearly-similar-rectangles) (private)
 
+## [Longest Subarray](https://github.com/hackerrank-test/hackerrank-problemsolving-longest-subarray) (private)
+
+## [Password Decryption](https://github.com/hackerrank-test/hackerrank-problemsolving-password-decryption) (private)
+
+## [Road Repair](https://github.com/hackerrank-test/hackerrank-problemsolving-road-repair) (private)
+
 🙏 [Buy me a coffe](https://github.com/hackerrank-test/buymeacoffee)
 
 Need a solution? Don't hesitate to mail to: [hackerranktest@outlook.com](mailto:hackerranktest@outlook.com)
