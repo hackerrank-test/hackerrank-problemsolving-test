@@ -10,6 +10,10 @@
 
 ## [Vowel-Substring](https://github.com/hackerrank-test/hackerrank-problemsolving-vowel-substring) (private)
 
+## [Active Traders](https://github.com/hackerrank-test/hackerrank-problemsolving-active-traders) (private)
+
+## [Nearly Similar Rectangles](https://github.com/hackerrank-test/hackerrank-problemsolving-nearly-similar-rectangles) (private)
+
 🙏 [Buy me a coffe](https://github.com/hackerrank-test/buymeacoffee)
 
 Need a solution? Don't hesitate to mail to: [hackerranktest@outlook.com](mailto:hackerranktest@outlook.com)
